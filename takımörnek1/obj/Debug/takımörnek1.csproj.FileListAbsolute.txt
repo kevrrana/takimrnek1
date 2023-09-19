@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\takımörnek1\takımörnek1\obj\Debug\takımörnek1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\takımörnek1\takımörnek1\obj\Debug\takımörnek1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\takımörnek1\takımörnek1\obj\Debug\takımörnek1.Form1.resources
+C:\Users\User\source\repos\takımörnek1\takımörnek1\obj\Debug\takımörnek1.Properties.Resources.resources
+C:\Users\User\source\repos\takımörnek1\takımörnek1\obj\Debug\takımörnek1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\takımörnek1\takımörnek1\obj\Debug\takımörnek1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\takımörnek1\takımörnek1\bin\Debug\takımörnek1.exe.config
+C:\Users\User\source\repos\takımörnek1\takımörnek1\bin\Debug\takımörnek1.exe
+C:\Users\User\source\repos\takımörnek1\takımörnek1\bin\Debug\takımörnek1.pdb
+C:\Users\User\source\repos\takımörnek1\takımörnek1\obj\Debug\takımörnek1.exe
+C:\Users\User\source\repos\takımörnek1\takımörnek1\obj\Debug\takımörnek1.pdb
